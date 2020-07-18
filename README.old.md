@@ -1,2 +1,0 @@
-# PIAG
-Art gallery
